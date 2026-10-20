@@ -51,6 +51,7 @@
 - [Ma et al. (2021)](https://doi.org/10.1038/s41566-020-0685-y) - Deep learning for design of photonic structures. *Nature Photonics*
 
 ## Also See
+- [Optics & Photonics](https://github.com/Cherish0925/optics-photonics) - English/Chinese software directory comparing physical methods, licenses, native APIs and compute requirements, with documentation for electromagnetic and differentiable optical solvers.
 - [Awesome Photonics](https://github.com/joamatab/awesome_photonics) - Comprehensive list of open-source photonics projects.
 - [Awesome PDA](https://github.com/zhengqigao/Awesome-PDA) - Papers on photonic design automation.
 
